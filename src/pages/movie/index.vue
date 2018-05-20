@@ -23,6 +23,22 @@
         </swiper-item>
       </block>
     </swiper>
+    <div class="movie-list">
+      <scroll-view scroll-y>
+        <div class="list">
+          <ul>
+            <li>
+              <div class="mv-img">
+                <img src="https://static.maizuo.com/pc/v5/usr/movie/f3357e10bc51cc5d69313ac80672a0fb.jpg?x-oss-process=image/resize,m_fixed,h_0,w_300" alt="">
+              </div>
+              <div class="mv-info">
+                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </scroll-view>
+    </div>
   </div>
 </template>
 
